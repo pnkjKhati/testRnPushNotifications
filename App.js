@@ -31,7 +31,6 @@ const App = () => {
         <Text>Server Key: </Text>
         <TouchableOpacity style={styles.clipBoard} onPress={() => copyToClipboard("AAAANTn8xLo:APA91bF7cvRb3V8Z6JPtHdQtanZ7w6sf0nuZh87onT0IsSCuqL9IScZQ6g5POPWUHY0ogluPuLPaweP5kKshcGCEN7KRVpr30F386fDRkPAPO3tY8LQnxJLjzS1EuiqCIxbCAfVak5hI")}>
           <Text style={styles.text}>
-            AAAANTn8xLo:APA91bF7cvRb3V8Z6JPtHdQtanZ7w6sf0nuZh87onT0IsSCuqL9IScZQ6g5POPWUHY0ogluPuLPaweP5kKshcGCEN7KRVpr30F386fDRkPAPO3tY8LQnxJLjzS1EuiqCIxbCAfVak5hI
           </Text>
         </TouchableOpacity>
       </View>
